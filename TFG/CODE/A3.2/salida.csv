@@ -1,0 +1,68 @@
+ID;FECHA_SALIDA;Cirujano;Paciente;Consulta;Consulta_PAE;Consulta_POST;Quirófano;Dia;Tipo;Descripcion
+0;04/09/2022;1; ;11; ; ; ;0;Z;Consulta 11
+1;04/09/2022;2; ;13; ; ; ;0;Z;Consulta 13
+2;04/09/2022;6; ;14; ; ; ;0;Z;Consulta 14
+3;04/09/2022;5; ; ; ; ;1;0;Zprima;Quirofano 1
+4;04/09/2022;0; ; ; ; ;1;0;Zprima_asis;Quirofano 1
+5;04/09/2022; ;EN5097485197; ; ; ;1;0;Xprima;Quirofano 1
+6;04/09/2022;16; ; ; ; ;1;1;Zprima;Quirofano 1
+7;04/09/2022;1; ; ; ; ;1;1;Zprima_asis;Quirofano 1
+8;04/09/2022; ;EN5260982032; ; ; ;1;1;Xprima;Quirofano 1
+9;04/09/2022; ;EN5041112250; ; ; ;1;1;Xprima;Quirofano 1
+10;04/09/2022; ;EN5042127013; ; ; ;1;1;Xprima;Quirofano 1
+11;04/09/2022;12; ; ; ; ;2;1;Zprima;Quirofano 2
+12;04/09/2022;2; ; ; ; ;2;1;Zprima_asis;Quirofano 2
+13;04/09/2022; ;EN5032194237; ; ; ;2;1;Xprima;Quirofano 2
+14;04/09/2022;0; ;1; ; ; ;2;Z;Consulta 1
+15;04/09/2022;3; ;3; ; ; ;2;Z;Consulta 3
+16;04/09/2022; ;EN3697872778; ;3; ; ;2;X;Consulta 3 PAE
+17;04/09/2022; ;EN3050746357; ;3; ; ;2;X;Consulta 3 PAE
+18;04/09/2022; ;EN5046626400; ;3; ; ;2;X;Consulta 3 PAE
+19;04/09/2022; ;EN5552196251; ;3; ; ;2;X;Consulta 3 PAE
+20;04/09/2022; ;EN5033642603; ;3; ; ;2;X;Consulta 3 PAE
+21;04/09/2022; ;EN3527344627; ;3; ; ;2;X;Consulta 3 PAE
+22;04/09/2022;16; ;7; ; ; ;2;Z;Consulta 7
+23;04/09/2022; ;EN5360248085; ;7; ; ;2;X;Consulta 7 PAE
+24;04/09/2022; ;EN5222092218; ;7; ; ;2;X;Consulta 7 PAE
+25;04/09/2022; ;EN5032060839; ;7; ; ;2;X;Consulta 7 PAE
+26;04/09/2022; ;EN5210878601; ;7; ; ;2;X;Consulta 7 PAE
+27;04/09/2022; ;EN5216976671; ;7; ; ;2;X;Consulta 7 PAE
+28;04/09/2022; ;EN5993645015; ;7; ; ;2;X;Consulta 7 PAE
+29;04/09/2022; ;EN5217746142; ;7; ; ;2;X;Consulta 7 PAE
+30;04/09/2022; ;EN5094328873; ;7; ; ;2;X;Consulta 7 PAE
+31;04/09/2022; ;EN5089878508; ;7; ; ;2;X;Consulta 7 PAE
+32;04/09/2022; ;EN5213287480; ;7; ; ;2;X;Consulta 7 PAE
+33;04/09/2022;7; ;8; ; ; ;2;Z;Consulta 8
+34;04/09/2022;9; ;5; ; ; ;3;Z;Consulta 5
+35;04/09/2022;2; ;9; ; ; ;3;Z;Consulta 9
+36;04/09/2022;8; ;11; ; ; ;3;Z;Consulta 11
+37;04/09/2022;5; ; ; ; ;2;3;Zprima;Quirofano 2
+38;04/09/2022;6; ; ; ; ;2;3;Zprima_asis;Quirofano 2
+39;04/09/2022; ;EN3050746357; ; ; ;2;3;Xprima;Quirofano 2
+40;04/09/2022;3; ; ; ; ;3;3;Zprima;Quirofano 3
+41;04/09/2022;4; ; ; ; ;3;3;Zprima_asis;Quirofano 3
+42;04/09/2022; ;EN3697872778; ; ; ;3;3;Xprima;Quirofano 3
+43;04/09/2022; ;EN3527344627; ; ; ;3;3;Xprima;Quirofano 3
+44;04/09/2022;11; ; ; ; ;4;3;Zprima;Quirofano 4
+45;04/09/2022;7; ; ; ; ;4;3;Zprima_asis;Quirofano 4
+46;04/09/2022; ;EN5264590968; ; ; ;4;3;Xprima;Quirofano 4
+47;04/09/2022;2; ;1; ; ; ;4;Z;Consulta 1
+48;04/09/2022;11; ;4; ; ; ;4;Z;Consulta 4
+49;04/09/2022; ;EN5225542178; ;4; ; ;4;X;Consulta 4 PAE
+50;04/09/2022; ;EN5214518511; ;4; ; ;4;X;Consulta 4 PAE
+51;04/09/2022; ;EN5095444906; ;4; ; ;4;X;Consulta 4 PAE
+52;04/09/2022; ;EN5224690105; ;4; ; ;4;X;Consulta 4 PAE
+53;04/09/2022; ;EN5216801796; ;4; ; ;4;X;Consulta 4 PAE
+54;04/09/2022; ;EN5202163181; ;4; ; ;4;X;Consulta 4 PAE
+55;04/09/2022; ;EN5090862662; ;4; ; ;4;X;Consulta 4 PAE
+56;04/09/2022;10; ;6; ; ; ;4;Z;Consulta 6
+57;04/09/2022;3; ; ; ; ;2;4;Zprima;Quirofano 2
+58;04/09/2022;8; ; ; ; ;2;4;Zprima_asis;Quirofano 2
+59;04/09/2022; ;EN5033642603; ; ; ;2;4;Xprima;Quirofano 2
+60;04/09/2022; ;EN5552196251; ; ; ;2;4;Xprima;Quirofano 2
+61;04/09/2022;4; ; ; ; ;3;4;Zprima;Quirofano 3
+62;04/09/2022;9; ; ; ; ;3;4;Zprima_asis;Quirofano 3
+63;04/09/2022; ;EN5046626400; ; ; ;3;4;Xprima;Quirofano 3
+64;04/09/2022;16; ; ; ; ;4;4;Zprima;Quirofano 4
+65;04/09/2022;13; ; ; ; ;4;4;Zprima_asis;Quirofano 4
+66;04/09/2022; ;EN5360248085; ; ; ;4;4;Xprima;Quirofano 4
